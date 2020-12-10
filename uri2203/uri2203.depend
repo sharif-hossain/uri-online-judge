@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607409073 source:f:\cpp\uri2203\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
